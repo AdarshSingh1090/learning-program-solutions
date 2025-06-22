@@ -1,0 +1,14 @@
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\bin\Debug\net9.0\FinancialForecastingExample.exe
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\bin\Debug\net9.0\FinancialForecastingExample.deps.json
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\bin\Debug\net9.0\FinancialForecastingExample.runtimeconfig.json
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\bin\Debug\net9.0\FinancialForecastingExample.dll
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\bin\Debug\net9.0\FinancialForecastingExample.pdb
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\obj\Debug\net9.0\FinancialForecastingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\obj\Debug\net9.0\FinancialForecastingExample.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\obj\Debug\net9.0\FinancialForecastingExample.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\obj\Debug\net9.0\FinancialForecastingExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\obj\Debug\net9.0\FinancialForecastingExample.dll
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\obj\Debug\net9.0\refint\FinancialForecastingExample.dll
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\obj\Debug\net9.0\FinancialForecastingExample.pdb
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\obj\Debug\net9.0\FinancialForecastingExample.genruntimeconfig.cache
+C:\Users\KIIT\Downloads\CSharp_DesignPatterns_Exercises (1)\CSharp_DesignPatterns_Exercises\FinancialForecastingExample\obj\Debug\net9.0\ref\FinancialForecastingExample.dll
