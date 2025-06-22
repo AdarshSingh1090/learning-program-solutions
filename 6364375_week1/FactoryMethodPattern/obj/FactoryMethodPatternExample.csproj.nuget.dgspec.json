@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\CSharp_DesignPatterns_Exercises\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj": {}
+    "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\6364375_week1\\FactoryMethodPattern\\FactoryMethodPatternExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\CSharp_DesignPatterns_Exercises\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj": {
+    "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\6364375_week1\\FactoryMethodPattern\\FactoryMethodPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\CSharp_DesignPatterns_Exercises\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\6364375_week1\\FactoryMethodPattern\\FactoryMethodPatternExample.csproj",
         "projectName": "FactoryMethodPatternExample",
-        "projectPath": "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\CSharp_DesignPatterns_Exercises\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
+        "projectPath": "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\6364375_week1\\FactoryMethodPattern\\FactoryMethodPatternExample.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\CSharp_DesignPatterns_Exercises\\FactoryMethodPatternExample\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\6364375_week1\\FactoryMethodPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"

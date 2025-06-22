@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\CSharp_DesignPatterns_Exercises\\EcommerceSearchExample\\EcommerceSearchExample.csproj",
+      "projectUniqueName": "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\6364375_week1\\EcommerceSearch\\EcommerceSearchExample.csproj",
       "projectName": "EcommerceSearchExample",
-      "projectPath": "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\CSharp_DesignPatterns_Exercises\\EcommerceSearchExample\\EcommerceSearchExample.csproj",
+      "projectPath": "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\6364375_week1\\EcommerceSearch\\EcommerceSearchExample.csproj",
       "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\CSharp_DesignPatterns_Exercises\\EcommerceSearchExample\\obj\\",
+      "outputPath": "C:\\Users\\KIIT\\Downloads\\CSharp_DesignPatterns_Exercises (1)\\6364375_week1\\EcommerceSearch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
