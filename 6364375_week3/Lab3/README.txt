@@ -1,0 +1,1 @@
+Run dotnet ef migrations add InitialCreate and dotnet ef database update after defining the models and DbContext.
